@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Padmapani</h1>
 <h3 align="center">I do development on Flutter and NodeJs. I really enjoy learning new languages and frameworks. frontend developer from India</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Padmapani&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Padmapani&count_private=false)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
