@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Padmapani</h1>
 <h3 align="center">A passionateAnd I do development on Flutter and NodeJs. I really enjoy learning new languages and frameworks. frontend developer from India</h3>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Padmapani&count_private=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/padmapani-patra-4b5b87201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="padmapani-patra-4b5b87201" height="30" width="40" /></a>
