@@ -2,7 +2,7 @@
 
 I am Padmapani from India, And I do development on Flutter and NodeJs. I really enjoy learning new languages and frameworks.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Padmapani)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Padmapani)](https://github.com/padma-pani-patra/github-readme-stats)
 
 
 <!--
