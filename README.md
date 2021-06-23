@@ -10,8 +10,8 @@
 - ⚡ Fun fact **I do flirt very well 😉. That's why learning Flutter 😂.**
 </p>
 
-(https://github-readme-stats.vercel.app/api?username=padma-pani-patra&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-<p align="right"></p>
+
+<p align="right">(https://github-readme-stats.vercel.app/api?username=padma-pani-patra&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 
 <h3 align="left">Programming Languages:</h3>
