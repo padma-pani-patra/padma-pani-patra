@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Padmapani</h1>
-<h3 align="center">I do development on Flutter and NodeJs. I really enjoy learning new languages and frameworks. frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India. I do development on Flutter and NodeJs. I really enjoy learning new languages and frameworks.</h3>
 
 
 - 🏃‍♀️ 2021 Goal : To learn as much as possible.
