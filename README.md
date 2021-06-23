@@ -11,7 +11,7 @@
 </p>
 
 
-<p align="right">(https://github-readme-stats.vercel.app/api?username=padma-pani-patra&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)</p>
+![Padmapani's GitHub stats](https://github-readme-stats.vercel.app/api?username=padma-pani-patra&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Programming Languages:</h3>
