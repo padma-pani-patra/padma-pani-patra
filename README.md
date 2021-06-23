@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Padmapani</h1>
 <h3 align="center">I do development on Flutter and NodeJs. I really enjoy learning new languages and frameworks. frontend developer from India</h3>
 
-<p align="left">- 🏃‍♀️ 2021 Goal **To learn as much as possible.**
+<p align="left">
+- 🏃‍♀️ 2021 Goal : To learn as much as possible.
 
-- 👯 I’m looking to collaborate to **learn more and more.**
+- 👯 I’m looking to collaborate to : learn more and more.
 
-- 📫 To reach me **padmapanipatra@gmail.com**
+- 📫 To reach me : padmapanipatra@gmail.com
 
-- ⚡ Fun fact **I do flirt very well 😉. That's why learning Flutter 😂.**
+- ⚡ Fun fact : I do flirt very well 😉. That's why learning Flutter 😂.
 </p>
 
 
