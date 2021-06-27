@@ -12,7 +12,7 @@
 
 
 
-[![Padmapani's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-dastan&show_icons=true&theme=midnight-purple)](https://github.com/padma-pani-patra)
+[![Padmapani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dastan&show_icons=true&theme=midnight-purple)](https://github.com/its-dastan)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=padma-pani-patra&repo=mp2)](https://github.com/padma-pani-patra/mp2) -->
 
 <h3 align="left">Programming Languages:</h3>
