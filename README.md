@@ -8,7 +8,6 @@
 
 - 📫 To reach me : padmapanipatra@gmail.com
 
-- ⚡ Fun fact : I do flirt very well 😉. That's why learning Flutter 😂.
 
 
 
