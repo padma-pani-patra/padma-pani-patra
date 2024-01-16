@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India. I do development on Flutter and NodeJs. I really enjoy learning new languages and frameworks.</h3>
 
 
-- 🏃‍♀️ 2022 Goal : To learn as much as I can.
+- 🏃‍♀️ 2024 Goal : To learn as much as I can.
 
 - 👯 I’m looking to collaborate to : learn more and more.
 
